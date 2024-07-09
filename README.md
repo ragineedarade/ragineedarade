@@ -18,8 +18,8 @@
 - 🌱 I’m currently learning **AI and ML** - 👨‍💻 All of my projects are available
 at
 [https://sites.google.com/view/ragineedarade/](https://sites.google.com/view/ragineedarade/)
-- 📫 How to reach me **ragineedarade@gmail.com** - 📄 Click Hear for Resume
-https://pdflink.to/e8d5795c/
+- 📫 How to reach me **ragineedarade@gmail.com** -
+- 📄 Click Hear for Resume   https://pdflink.to/e8d5795c/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
