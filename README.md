@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Raginee</h1>
 <h3 align="center">
-  A passionate Frontend Developer and Python Developer from India
+  A passionate Full Stack Developer and Python Developer from India
 </h3>
 
 <p align="center">
@@ -21,9 +21,9 @@
 
 - 🌱 I’m currently learning **AI and ML**  
 - 👨‍💻 All of my projects are available at:  
-  [https://sites.google.com/view/ragineedarade/](https://sites.google.com/view/ragineedarade/)  
+  [https://sites.google.com/view/ragineedarade/](aiapply.co/r/66fcd01f22540)  
 - 📫 How to reach me: **ragineedarade@gmail.com**  
-- 📄 Click here for Resume: [Resume](https://pdflink.to/e8d5795c/)
+- 📄 Click here for Resume: [Resume](aiapply.co/r/66fcd01f22540)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -159,6 +159,7 @@
       height="40"
     />
   </a>
+ 
 </p>
 
 <p>
