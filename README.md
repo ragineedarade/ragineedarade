@@ -1,6 +1,8 @@
  <h1 align="center">Hi 👋, I'm Raginee Darade</h1>
 <h3 align="center">A passionate Contributor from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ragineedarade&label=Profile%20views&color=0e75b6&style=flat" alt="ragineedarade" /> </p>
+
 - 🌱 I’m currently learning **AI and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ragineedarade](https://github.com/ragineedarade)
