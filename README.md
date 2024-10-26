@@ -10,9 +10,10 @@
 - 📫 How to reach me **https://ragineedarade.netlify.app/**
 
 - 📄 Know about my Resume [https://pdflink.to/raginee_darade02/](https://pdflink.to/raginee_darade02/)
+- [![An image of @ragineedarade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ragineedarade)](https://holopin.io/@ragineedarade)
 
 <h3 align="left">Connect with me:</h3>
-[![An image of @ragineedarade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ragineedarade)](https://holopin.io/@ragineedarade)
+ 
 <p align="left">
  
 <a href="https://twitter.com/ragineedarade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ragineedarade" height="30" width="40" /></a>
