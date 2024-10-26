@@ -10,6 +10,7 @@
 - 📫 How to reach me **https://ragineedarade.netlify.app/**
 
 - 📄 Know about my Resume [https://pdflink.to/raginee_darade02/](https://pdflink.to/raginee_darade02/)
+-  [![An image of @ragineedarade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ragineedarade)](https://holopin.io/@ragineedarade)
  
 
 <h3 align="left">Connect with me:</h3>
@@ -29,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ragineedarade&show_icons=true&locale=en" alt="ragineedarade" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ragineedarade&" alt="ragineedarade" /></p>
- [![An image of @ragineedarade's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ragineedarade)](https://holopin.io/@ragineedarade)
+ 
