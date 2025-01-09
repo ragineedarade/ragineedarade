@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&pause=1000&color=F7F7F7&background=128CCF00&center=true&vCenter=true&multiline=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Raginee+Darade" alt="Typing SVG" />
   </a>
 </p>
-<h3 align="center">A Passionate CSE Student</h3>
+<h3 align="center">3rd Year CSE Student</h3>
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Full-Stack+Developer;AI+Enthusiast;Open-Source+Contributor" alt="Typing SVG" />
 </h2>
@@ -12,12 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=raginee-darade&label=Profile%20views&color=0e75b6&style=flat" alt="raginee-darade" />
+  <img src="https://komarev.com/ghpvc/?username=ragineedarade&label=Profile%20views&color=0e75b6&style=flat" alt="raginee-darade" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=raginee-darade" alt="raginee-darade" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ragineedarade" alt="raginee-darade" />
   </a>
 </p>
 
