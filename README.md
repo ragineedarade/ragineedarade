@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&lines=Open-Source+Contributor;Competitive+Programmer;AI+Innovator" alt="Typing SVG" />
 </h2>
 <p align="center">
-  <img src=" https://media.tenor.com/FP3KLUuiKOkAAAAC/computer-typing.gif" width="400" height="300" alt="Raginee's Photo">
+  <img src="assgif" width="400" height="300" alt="Raginee's Photo">
 </p>
 
 <p align="center"> 
