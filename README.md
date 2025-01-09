@@ -49,16 +49,16 @@
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js,html,css" title="JavaScript, HTML, CSS"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=spring,express" title="Spring Boot, Express"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=intellij" title="IntelliJ"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" title="Docker"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=windows" title="Windows"/></a></div> |
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raginee-darade&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raginee-darade&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ragineedarade&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ragineedarade&theme=2077" height="180em" />
 </p>
 
 <p align="center">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=raginee-darade&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raginee-darade&theme=2077" height="180em" />
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raginee-darade&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ragineedarade&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ragineedarade&theme=2077" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ragineedarade&theme=2077" height="180em" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raginee-darade&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ragineedarade&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
 </p>
