@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Data Science and  mongoDB**  
 - 🔭 I’m working on **AI/ML-based projects and full-stack applications**  
 - 👯 I’m looking to collaborate on **web development and open-source projects**  
-- 📫 Reach me at: **ragineedarade@gmail.com**
+ 
 
 ---
 
