@@ -66,11 +66,12 @@
   </a>
 </p>
 
-<p align="center">
+ <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragineedarade &theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragineedarade&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   </a>
 </p>
+
 
 ---
 
