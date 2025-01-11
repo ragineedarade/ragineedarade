@@ -11,7 +11,7 @@
 
 <h2 align="center">🚀 About Me 🚀</h2>
 
-- 🌱 I’m currently learning **Data Science and Cloud Computing**  
+- 🌱 I’m currently learning **Data Science and  mongoDB**  
 - 🔭 I’m working on **AI/ML-based projects and full-stack applications**  
 - 👯 I’m looking to collaborate on **web development and open-source projects**  
 - 📫 Reach me at: **ragineedarade@gmail.com**
@@ -37,8 +37,9 @@
 
 <h2 align="center">📂 Projects 📂</h2>
 
-- [**Swasthya**](https://github.com/ragineedarade/swasthya): A healthcare app connecting patients with hospitals and emergency services.  
-- [**AllQR**](https://github.com/ragineedarade/allqr): A dynamic QR code generator and scanner website.  
+ - [**ProTech.AI**](https://github.com/ragineedarade/protech.ai): An AI-powered platform for ATS score cheak.  
+- [**Gardenly**](https://github.com/ragineedarade/gardenly): a virtual harbal garden project with help of al and ml database also i add 3d models 
+- [**Zora Virtual Assistance**](https://github.com/ragineedarade/zora-virtual-assistance): A virtual assistant platform for personalized services.  
 - [**Khandwa.com**](https://github.com/ragineedarade/khandwa): A community platform for the residents of Khandwa.  
 - [**FoodyBuddy**](https://github.com/ragineedarade/foodybuddy): A food delivery app with a unique twist.  
 
@@ -46,9 +47,12 @@
 
 <h2 align="center">🌟 Achievements 🌟</h2>
 
-- 🏆 Participated in Smart India Hackathon (SIH) 2024  
-- 🚀 Successfully built an AI-powered farmers’ disease diagnostic portal  
-- 📚 Conducted webinars and workshops on web development and cloud computing  
+ - 🏆 Participated in the **I Love Hackathon Indore Edition 2024** as a team lead with my team **Bug Fighters** and secured **second rank** with a **$240 cash prize**.  
+- 🚀 Ranked among the **top two teams** in **SIH 2024** in my college.  
+- 📜 Passed the **P.D.C.E. 2024** and received the **license key** issued by **TechCert Labs**.  
+- 🏅 Completed the **NPTEL examination** for **Cloud Computing** and **Distribution** with a score of **60%**.  
+- 🌱 Selected as an **open-source contributor** for **GSSoC 2024**.  
+ 
 
 ---
 
