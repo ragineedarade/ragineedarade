@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning **Data Science and Cloud Computing**  
 - 🔭 I’m working on **AI/ML-based projects and full-stack applications**  
 - 👯 I’m looking to collaborate on **web development and open-source projects**  
-- 📫 Reach me at: **raginee.darade@example.com**
+- 📫 Reach me at: **ragineedarade@gmail.com**
 
 ---
 
@@ -80,7 +80,7 @@
   <a href="https://www.linkedin.com/in/ragineedarade/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:raginee.darade@example.com">
+  <a href="mailto:ragineedarade@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ragineedarade">
