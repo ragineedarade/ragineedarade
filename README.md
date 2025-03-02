@@ -41,14 +41,15 @@
 - [**Gardenly**](https://github.com/ragineedarade/gardenly): a virtual harbal garden project with help of al and ml database also i add 3d models 
 - [**Zora Virtual Assistance**](https://github.com/ragineedarade/zora-virtual-assistance): A virtual assistant platform for personalized services.  
 - [**Khandwa.com**](https://github.com/ragineedarade/khandwa): A community platform for the residents of Khandwa.  
-- [**FoodyBuddy**](https://github.com/ragineedarade/foodybuddy): A food delivery app with a unique twist.  
+
 
 ---
 
 <h2 align="center">🌟  Achievements  🌟</h2>
 
- - 🏆 Participated in the **I Love Hackathon Indore Edition 2024** as a team lead with my team **Bug Fighters** and secured **second rank** with a **$240 cash prize**.
- - Selected In Google Girl Hackhton 2025 At a Second Phase
+ - 🏆 Participated in the **I Love Hackathon Indore Edition 2024** as a team lead with my team **Bug Fighters** and secured 
+       **second rank** with a **$240 cash prize**.
+- Selected In Google Girl Hackhton 2025 At a Second Phase
 - 🚀 Ranked among the **top two teams** in **SIH 2024** in my college.  
 - 📜 Passed the **P.D.C.E. 2024** and received the **license key** issued by **TechCert Labs**.  
 - 🏅 Completed the **NPTEL examination** for **Cloud Computing** and **Distribution** with a score of **60%**.  
@@ -80,7 +81,7 @@
 
 ---
 
-<h2 align="center">💌 Connect With Me 💌</h2>
+<h2 align="center"> Connect With Me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ragineedarade/">
