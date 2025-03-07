@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+creating+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+creating+projects!" alt="Typing SVG"  />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on **web development and open-source projects**  
  
 
----
+-------------------------------------------
 
 <h2 align="center">🛠️ My Skills 🛠️</h2>
 
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Azure-blue?logo=microsoftazure&logoColor=white" />
 </p>
 
----
+---------------------------------------------------
 
 <h2 align="center">📂 Projects 📂</h2>
 
@@ -43,7 +43,7 @@
 - [**Khandwa.com**](https://github.com/ragineedarade/khandwa): A community platform for the residents of Khandwa.  
 
 
----
+---------------------------------------------
 
 <h2 align="center">🌟  Achievements  🌟</h2>
 
@@ -56,7 +56,7 @@
 - 🌱 Selected as an **open-source contributor** for **GSSoC 2024**.  
  
 
----
+---------------------
 
 <h1 align="center">📊 GitHub Stats 📊</h1>
 
