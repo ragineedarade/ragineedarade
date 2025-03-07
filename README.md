@@ -1,10 +1,10 @@
- <h1 align="center">Hi 👋, I'm Raginee Darade</h1>
+  <h1 align="center">Hi 👋, I'm Raginee Darade</h1>
 <h3 align="center">A passionate full-stack developer and tech enthusiast from India</h3>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!; I+love+coding+and+creating+projects!" alt="Typing SVG"  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF5733&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I+love+coding+and+creating+projects!" alt="Typing SVG"  />
 </p>
 
 ---
