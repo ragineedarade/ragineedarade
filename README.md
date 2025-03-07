@@ -86,7 +86,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ragineedarade/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a>
+  </a> 
+    <p> @ </p>
   <a href="mailto:ragineedarade@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
   </a>
