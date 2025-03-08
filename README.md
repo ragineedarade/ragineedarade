@@ -1,4 +1,4 @@
-  <h1 align="center">Hi 👋, I'm Raginee Darade</h1>
+  <h1 align="center">Hi 👋, I'm Raginee Darade </h1>
 <h3 align="center">A passionate full-stack developer and tech enthusiast from India</h3>
 
 ---
@@ -11,7 +11,7 @@
 
 <h2 align="center">🚀 About Me 🚀</h2>
 
-- 🌱 I’m currently learning **Data Science and  mongoDB**  
+- 🌱 I’m currently learning **Data Science and  mongoDB** 
 - 🔭 I’m working on **AI/ML-based projects and full-stack applications**  
 - 👯 I’m looking to collaborate on **web development and open-source projects**  
  
@@ -37,7 +37,7 @@
 
 <h2 align="center">📂 Projects 📂</h2>
 
- - [**ProTech.AI**](https://github.com/ragineedarade/protech.ai): An AI-powered platform for ATS score cheak.  
+ - [**ProTech.AI**](https://github.com/ragineedarade/protech.ai): An AI-powered platform for ATS score cheak and Advicer.  
 - [**Gardenly**](https://github.com/ragineedarade/gardenly): a virtual harbal garden project with help of al and ml database also i add 3d models 
 - [**Zora Virtual Assistance**](https://github.com/ragineedarade/zora-virtual-assistance): A virtual assistant platform for personalized services.  
 - [**Khandwa.com**](https://github.com/ragineedarade/khandwa): A community platform for the residents of Khandwa.  
