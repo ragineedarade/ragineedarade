@@ -1,5 +1,5 @@
   <h1 align="center">Hi 👋, I'm Raginee Darade </h1>
-<h3 align="center">A passionate full-stack developer and tech enthusiast from India</h3>
+<h3 align="center">A passionate full-stack  Python developer and AI/ML enthusiast from India</h3>
 
 ---
 
