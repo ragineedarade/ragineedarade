@@ -41,7 +41,8 @@
 - [**Gardenly**](https://github.com/ragineedarade/gardenly): a virtual harbal garden project with help of al and ml database also i add 3d models 
 - [**Zora Virtual Assistance**](https://github.com/ragineedarade/zora-virtual-assistance): A virtual assistant platform for personalized services.  
 - [**Khandwa.com**](https://github.com/ragineedarade/khandwa): A community platform for the residents of Khandwa.
-- [**help Mate**](https://github.com/ragineedarade/helpmate) : this a  website of container of all important ai agents  which build by me 
+- [**help Mate**](https://github.com/ragineedarade/helpmate) : this a  website of container of all important ai agents  which build by me
+- [**MyKittchen**](https://github.com/ragineedarade/Flask-MYkittch)A smart meal planner and recipe sharing web app built with Flask, Firebase, and MySQL for food lovers and home chefs.
 
 
 ---------------------------------------------
