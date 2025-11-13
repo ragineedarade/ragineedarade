@@ -53,7 +53,7 @@
  - 🏆 Participated in the *I Love Hackathon Indore Edition 2024* as a team lead with my team *Bug Fighters* and secured 
        *second rank* with a *$240 cash prize*.
 - Winner of BrowserStack Hackthon which was organize by BrowserStack And Win *$100 coupon prize*
-- - Selected In Google Girl Hackhton 2025 At a Second Phase
+- Selected In Google Girl Hackhton 2025 At a Second Phase
 - 🚀 Ranked among the *top two teams* in *SIH 2024* in my college.  
 - 📜 Passed the *P.D.C.E. 2024* and received the *license key* issued by *TechCert Labs*.  
 - 🏅 Completed the *NPTEL examination* for *Cloud Computing* and *Distribution* with a score of *60%*.  
