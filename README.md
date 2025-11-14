@@ -25,8 +25,10 @@ My operational parameters are set towards innovation in **Python-driven full-sta
 - 💬 **Query Interface:** Inquire about Python frameworks, AI deployment, or efficient coding practices.
 
  
-   ---
-   <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Animated GIF of a person coding" width="400" height="200">
+
+ <div align="center">
+    <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Animated GIF of a person coding" width="500" height="250">
+</div>
 
 ## 🧰 Technical Schematics
 
