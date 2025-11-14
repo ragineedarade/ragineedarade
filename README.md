@@ -7,8 +7,6 @@
   <img src=" https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
 </p>
 
----
-
 <h2 align="center">🚀 About Me 🚀</h2>
 
 - 🌱 I’m currently learning *Data Science and  mongoDB* 
