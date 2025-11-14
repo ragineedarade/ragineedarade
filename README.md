@@ -1,99 +1,108 @@
-<h1 align="center">Hi 👋, I'm Raginee Darade </h1>
-<h3 align="center">A passionate full-stack  Python developer and AI/ML enthusiast from India </h3>
+ <h1 align="center">Hi there! 👋 I'm Raginee Darade</h1>
+<h3 align="center">Python Full-Stack Developer | AI/ML Enthusiast from India 🇮🇳</h3>
 
 ---
 
 <p align="center">
-  <img src=" https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"  />
+  <img src="https://media.giphy.com/media/Q8Q49qDqE3R9VzJt8E/giphy.gif" width="600" alt="Coding GIF" />
 </p>
-
-<h2 align="center">🚀 About Me 🚀</h2>
-
-- 🌱 I’m currently learning *Data Science and  mongoDB* 
-- 🔭 I’m working on *AI/ML-based projects and full-stack applications*  
-- 👯 I’m looking to collaborate on *web development and open-source projects*  
- 
-
--------------------------------------------
-
-<h2 align="center">🛠 My Skills 🛠</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-green?logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bootstrap-purple?logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-lightgrey?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-AWS-orange?logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GCP-red?logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Azure-blue?logo=microsoftazure&logoColor=white" />
- <img src="https://img.shields.io/badge/-Flask-yellow?logo=python&logoColor=white" />
-</p>
-
----------------------------------------------------
-
-<h2 align="center">📂 Projects 📂</h2>
-
- - [*ProTech.AI*](https://github.com/ragineedarade/protech.ai): An AI-powered platform for ATS score cheak and Advicer.  
-- [*Gardenly*](https://github.com/ragineedarade/gardenly): a virtual harbal garden project with help of al and ml database also i add 3d models 
-- [*Zora Virtual Assistance*](https://github.com/ragineedarade/zora-virtual-assistance): A virtual assistant platform for personalized services.  
-- [*Khandwa.com*](https://github.com/ragineedarade/khandwa): A community platform for the residents of Khandwa.
-- [*help Mate*](https://github.com/ragineedarade/helpmate) : this a  website of container of all important ai agents  which build by me
-- [*MyKittchen*](https://github.com/ragineedarade/Flask-MYkittch)A smart meal planner and recipe sharing web app built with Flask, Firebase, and MySQL for food lovers and home chefs.
-
-
----------------------------------------------
-
-<h2 align="center">🌟  Achievements  🌟</h2>
-
- - 🏆 Participated in the *I Love Hackathon Indore Edition 2024* as a team lead with my team *Bug Fighters* and secured 
-       *second rank* with a *$240 cash prize*.
-- Winner of BrowserStack Hackthon which was organize by BrowserStack And Win *$100 coupon prize*
-- Selected In Google Girl Hackhton 2025 At a Second Phase
-- 🚀 Ranked among the *top two teams* in *SIH 2024* in my college.  
-- 📜 Passed the *P.D.C.E. 2024* and received the *license key* issued by *TechCert Labs*.  
-- 🏅 Completed the *NPTEL examination* for *Cloud Computing* and *Distribution* with a score of *60%*.  
-- 🌱 Selected as an *open-source contributor* for *GSSoC 2024*.  
- 
-
----------------------
-
-<h1 align="center">📊 GitHub Stats 📊</h1>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ragineedarade&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragineedarade&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
-</p>
-
- <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragineedarade&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </a>
-</p>
-
 
 ---
 
-<h2 align="center"> Connect With Me </h2>
+## 🚀 About Me
+
+I'm a passionate full-stack **Python developer** with a strong interest in **Artificial Intelligence** and **Machine Learning**. I enjoy building scalable applications and diving into the world of data science.
+
+* 🔭 I’m currently focused on **AI/ML-based projects** and building **full-stack applications**.
+* 🌱 I’m actively leveling up my skills in **Data Science** and **MongoDB**.
+* 👯 I’m always open to collaborating on **web development** and **open-source projects**.
+* 💬 Ask me about **Python, Django, Flask,** or **my hackathon experiences!**
+* ⚡ Fun fact: I secured a **second-place finish** in the **I Love Hackathon Indore Edition 2024**!
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+Showcasing my core expertise with a modern, clean badge style.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ragineedarade/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" />
-  </a> 
-    
-  <a href="mailto:ragineedarade@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ragineedarade">
-    <img src="https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white" />
-  </a>
-</p> 
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+    <br>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+</p>
+
+---
+
+## 📂 Featured Projects
+
+Highlighting your best work with cleaner descriptions.
+
+* **[ProTech.AI](https://github.com/ragineedarade/protech.ai):** An **AI-powered platform** for generating **ATS scores** and offering career advice for resumes.
+* **[Gardenly](https://github.com/ragineedarade/gardenly):** A virtual herbal garden project integrating **AI/ML databases** and **3D models** for plant information.
+* **[MyKittchen](https://github.com/ragineedarade/Flask-MYkittch):** A smart meal planner and recipe sharing web app built with **Flask, Firebase, and MySQL**.
+* **[help Mate](https://github.com/ragineedarade/helpmate):** A comprehensive website container of various essential **AI agents** developed by me.
+
+---
+
+## 🏆 Achievements & Recognition
+
+A dedicated section to showcase your impressive accomplishments.
+
+* 🥇 **Hackathon Success:**
+    * Secured **Second Rank** ($240 cash prize) as Team Lead of *Bug Fighters* at the **I Love Hackathon Indore Edition 2024**.
+    * **Winner** of the **BrowserStack Hackathon** ($100 coupon prize).
+    * Ranked among the **top two teams** in **SIH 2024** (Smart India Hackathon) in my college.
+    * Selected for the **Second Phase** of the **Google Girl Hackathon 2025**.
+* 🌱 **Open Source & Certifications:**
+    * Selected as an **Open-Source Contributor** for **GSSoC 2024**.
+    * Completed the **NPTEL examination** for *Cloud Computing and Distribution* (60%).
+    * Passed the **P.D.C.E. 2024** and received a license key from *TechCert Labs*.
+
+---
+
+<h2 align="center">📊 GitHub Statistics</h2>
+
+Using the `github-readme-stats` cards with a consistent, attractive theme (`dark`) and cleaner alignment.
+
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=ragineedarade&show_icons=true&theme=dark&hide_border=true&count_private=true&line_height=25" alt="Raginee Darade GitHub Stats" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ragineedarade&layout=compact&theme=dark&hide_border=true" alt="Raginee Darade Top Languages" />
+    </a>
+</p>
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ragineedarade&theme=dark&hide_border=true" alt="Raginee Darade GitHub Streak" />
+    </a>
+</p>
+
+---
+
+<h2 align="center">🔗 Let's Connect!</h2>
+
+<p align="center">
+    <a href="https://www.linkedin.com/in/ragineedarade/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ragineedarade@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/ragineedarade" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    </p>
